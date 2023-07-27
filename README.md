@@ -67,7 +67,7 @@ This is where you can select which service you want to stream to. The primary on
 - Twitter
 - Show All… 
 
-If you select Show All… you’ll see a comprehensive list of all the supported live streaming platforms. If we go for YouTube live stream, we nees streanm key or can also connect our account.
+If you select Show All… you’ll see a comprehensive list of all the supported live streaming platforms. If we go for YouTube live stream, we need stream key or can also connect our account.
 
 ![Screenshot from 2023-07-27 11-20-08](https://github.com/Diya050/OBS_Tutorial/assets/124448340/08792bd7-5d64-493d-93df-857c59291010)
 
