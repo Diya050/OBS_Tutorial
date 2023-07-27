@@ -78,11 +78,10 @@ The default is 160 which will give pretty good results. If the only audio in you
 **Recording Output Settings:**
 The OBS Screen Recorder is another awesome tool that we might want to adjust the settings for. Go to the Recording settings – here we can check the video recording quality and video recording format. We can also specify a recording path.
 For recording quality, the options here are:
-
-    Same as stream
-    High Quality, Medium File Size
-    Indistinguishable Quality, Large File Size
-    Lossless Quality, Tremendously Large File Size
+- Same as stream
+- High Quality, Medium File Size
+- Indistinguishable Quality, Large File Size
+- Lossless Quality, Tremendously Large File Size
 
 For recording format, .mp4 which is a universally recognized format is preferred.
 
