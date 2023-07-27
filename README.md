@@ -27,7 +27,10 @@ Open Broadcaster Software (OBS Studio) is a powerful, free live streaming app (a
 
 **Scenes:** In the bottom left corner is the Scenes panel.They are video canvases that are made up of one or more visual (and audio) elements from those sources. We can switch between various scenes.
 
+![Screenshot from 2023-07-27 11-18-02](https://github.com/Diya050/OBS_Tutorial/assets/124448340/ed8ec9cd-82e5-4e67-b8f6-bd6003f18f8c)
+
 ## Settings:
+
 
 ### General Settings:
 <br>
@@ -48,6 +51,10 @@ and many more to enhance our streaming.
 **Projectors:** Individual sources, scenes, program, preview or the built-in OBS Multiview can be projected either in fullscreen or as a window.
 
 **Multiview:** The OBS Studio Multiview feature is an ideal solution for live video production environments where a user wants to set up multiple scenes using multiple cameras as the sources.
+
+![Screenshot from 2023-07-27 11-20-00](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7642107b-7f8c-4ccf-b04f-6505b1af941a)
+
+
 <br>
 ### Stream Settings:
 <br>
@@ -62,6 +69,9 @@ This is where you can select which service you want to stream to. The primary on
 - Show All… 
 
 If you select Show All… you’ll see a comprehensive list of all the supported live streaming platforms. If we go for YouTube live stream, we nees streanm key or can also connect our account.
+
+![Screenshot from 2023-07-27 11-20-08](https://github.com/Diya050/OBS_Tutorial/assets/124448340/08792bd7-5d64-493d-93df-857c59291010)
+
 
 ### Output Settings:
 
@@ -87,6 +97,8 @@ For recording format, .mp4 which is a universally recognized format is preferred
 
 With audio track (1-6), we can record 6 different audio tracks at a time (except in option "same as stream" for recording quality).
 
+![Screenshot from 2023-07-27 11-20-16](https://github.com/Diya050/OBS_Tutorial/assets/124448340/fd4529e0-c2a0-4725-9c9b-b588b564b6f9)
+
 
 ### Audio Settings:
 
@@ -99,12 +111,18 @@ It depends on our personal preferences.
 
 Even if the default setting is using our correct microphone because of your System Settings, it is still strongly recommended manually setting it here just so we don’t have any issues down the track.
 
+![Screenshot from 2023-07-27 11-20-27](https://github.com/Diya050/OBS_Tutorial/assets/124448340/25b03641-4b55-40eb-9d7a-3e62e7fe760b)
+
+
 ### Video Settings:
 
 **Resolution:** Base (Canvas) Resolution refers to the resolution of the live stream in OBS. The default here is 1920 x 1080. Output (Scaled) Resolution refers to the resolution of the live stream that’s being broadcasted out to other platforms or even recorded. The default is 1280 x 720p.
 Thus, the frame rate in OBS Studio doesn’t need to be the same frame rate we’re pushing out. Switch the Output (Scaled) Resolution to 1920 x 1080 to get high quality.
 
 **Frame Rate:** You can adjust the frame rate by adjusting the setting called Common FPS Values.It defaults to 60 but we recommend setting it to 30. 60 FPS has a higher recording bitrate and takes up more storage. But if you want your viewers to experience no lag while watching gameplay videos and other high-quality content, this is the best option.
+
+![Screenshot from 2023-07-27 11-20-34](https://github.com/Diya050/OBS_Tutorial/assets/124448340/9e800698-1162-4d5d-9db5-a575b462dce6)
+
 
 ### Hotkeys Settings:
 
@@ -122,10 +140,16 @@ Some functions we can assign hotkeys to include:
 
 This definitely isn’t necessary but it’s a great way to streamline our workflow so that we can control and configure everything really easily while we’re live streaming.
 
+![Screenshot from 2023-07-27 11-20-42](https://github.com/Diya050/OBS_Tutorial/assets/124448340/c80affb7-163e-4cde-8825-db4168697a15)
+
+
 ### Accessibility: 
 
 This is a newer feature in OBS that helps people who may have a disability or eyesight issues.
 You can select colors throughout the interface to better suit your needs.
+
+![Screenshot from 2023-07-27 11-20-50](https://github.com/Diya050/OBS_Tutorial/assets/124448340/2827609d-4d14-4cb9-86f2-e64ef926652c)
+
 
 ### Advanced Settings:
 
@@ -133,12 +157,16 @@ You can select colors throughout the interface to better suit your needs.
 - One that we highly recommend selecting is Automatically Reconnect. This means if your internet connection drops out for any reason, OBS Studio will automatically attempt to reconnect and restart your stream.
 - We can also specify names to be given to our recordings here.
 - We can even set time for stream delay if required.
+  
+![Screenshot from 2023-07-27 11-20-59](https://github.com/Diya050/OBS_Tutorial/assets/124448340/91a3dcaf-1814-4d66-907b-3655a9685ea7)
 
 ## Studio Mode:
 
 When Studio mode is enabled, If you click a Scene, it will appear in the left window but won’t be visible to our viewers (essentially queuing it up). When we’re ready to bring that Scene on screen, press Transition and then our viewers will be able to see it.
 
 To disable Studio Mode at any time, just click the Studio Mode button again in the Controls panel. In Studio Mode, we can easily switch between the different scenes we’ve set up. This is a more advanced feature.
+
+![Screenshot from 2023-07-27 11-26-35](https://github.com/Diya050/OBS_Tutorial/assets/124448340/eb8d0578-9820-48af-8c20-40d6c57ec717)
 
 ## How to Use OBS Studio Scenes
 
@@ -309,3 +337,24 @@ If you click a Scene, it will appear in the left window but won’t be visible t
 To disable Studio Mode at any time, just click the Studio Mode button again in the Controls panel.
 
 Now you know exactly how to live stream with OBS Studio.
+
+
+## How to use OBS Studio from Mobile
+
+For this, you'll need obs-websocket. If you are running OBS v27, you need to download obs-websocket plugin from https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-using-websockets.466/. 
+
+For v28 and above, obs-websocket is included with OBS Studio. You can simply follow:
+
+- Open OBS studio on your PC.
+- Go to Tools > WebSocket Server Settings
+- Enable WebSocket Server and configure the settings.
+- Install StreamCtrl app on your mobile.
+- Connect it to your through QR code or password.
+- Here, you are ready to control your OBS from your mobile.
+- You may explore its further features while working.
+
+ ![photo1690436563(2)](https://github.com/Diya050/OBS_Tutorial/assets/124448340/0f8122bc-84ea-49bc-8e4a-7c18b1992e4a)
+
+ ![photo1690436563](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7f04f164-8e59-4f20-b465-60e73eae6f06)
+ 
+![photo1690436563(1)](https://github.com/Diya050/OBS_Tutorial/assets/124448340/ddbd0a96-e37e-4ba5-bf1d-1503dfdd83f6)
