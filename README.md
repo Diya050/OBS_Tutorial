@@ -242,7 +242,7 @@ Let’s take a look at what you can do with the Color Correction filter. Hit Col
 Here you can adjust things like the contrast, brightness, saturation, hue and opacity.
 Color Correction Effects under OBS Studio Filters settingsPlay around different settings in Filters like Color Correction
 
-### How To Crop Video Sources
+## How To Crop Video Sources
 
 Another tool you can access in the Filters section is Crop. Let’s say you wanted to crop the picture-in-picture that you added to your screen share earlier.
 
@@ -254,7 +254,7 @@ OBS Studio Graphics
 
 There are a number of elements you can add to your live stream to make it more engaging and professional.
 
-### How To Add Text In OBS Studio
+## How To Add Text In OBS Studio
 
 To add text to your live stream, select the Scene that you want to add text to and then press the + button in the Sources section.
 
@@ -262,16 +262,15 @@ Select Text, give the Source a name and hit OK.
 Text (FreeType 2) Source Option to add texts in OBS Studio ScenePut texts in your stream or recording by adding Text as a Source
 
 Then type in the text you want to appear on screen. You can adjust the font and if you scroll down you’ll see some more settings such as:
-
-    Color
-    Outline
-    Drop shadow
-    Text width
+- Color
+- Outline
+- Drop shadow
+- Text width
 
 Once you’ve made those customizations, hit OK.
 Font setting menu where you can change the font and size of the text added in OBS StudioTexts can be customized by changing the font, size, and color
 
-### How To Add A Logo In OBS
+## How To Add A Logo In OBS
 
 Let’s say you’d like to add your logo alongside the text in your live stream. Hit the + button in the Sources panel and go to Image. Again, give it a name and then select the image you want to add.
 
@@ -280,7 +279,7 @@ You can scale the image by dragging the corners and you can move it around by cl
 Don’t forget you can turn off any sources by clicking the Eye icon.
 Primal Video logo on the top right corner and Tom Rawlins text on the bottom right corner added in an OBS Studio SceneAdd a logo just by adding an image to your Scene and adjust it to your liking
 
-### Going Live In OBS Studio
+## Going Live In OBS Studio
 
 Now that you’ve got everything set up, it’s time to go live!
 
