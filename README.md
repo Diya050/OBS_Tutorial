@@ -55,7 +55,6 @@ and many more to enhance our streaming.
 ![Screenshot from 2023-07-27 11-20-00](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7642107b-7f8c-4ccf-b04f-6505b1af941a)
 
 
-<br>
 ### Stream Settings:
 <br>
 
@@ -97,7 +96,7 @@ For recording format, .mp4 which is a universally recognized format is preferred
 
 With audio track (1-6), we can record 6 different audio tracks at a time (except in option "same as stream" for recording quality).
 
-![Screenshot from 2023-07-27 11-20-16](https://github.com/Diya050/OBS_Tutorial/assets/124448340/fd4529e0-c2a0-4725-9c9b-b588b564b6f9)
+![Screenshot from 2023-07-27 11-29-14](https://github.com/Diya050/OBS_Tutorial/assets/124448340/36bcc26e-17e4-4683-864b-f94021618ea8)
 
 
 ### Audio Settings:
@@ -121,7 +120,7 @@ Thus, the frame rate in OBS Studio doesn’t need to be the same frame rate we�
 
 **Frame Rate:** You can adjust the frame rate by adjusting the setting called Common FPS Values.It defaults to 60 but we recommend setting it to 30. 60 FPS has a higher recording bitrate and takes up more storage. But if you want your viewers to experience no lag while watching gameplay videos and other high-quality content, this is the best option.
 
-![Screenshot from 2023-07-27 11-20-34](https://github.com/Diya050/OBS_Tutorial/assets/124448340/9e800698-1162-4d5d-9db5-a575b462dce6)
+![Screenshot from 2023-07-27 11-29-22](https://github.com/Diya050/OBS_Tutorial/assets/124448340/9e9a564c-1ff3-4a55-8603-33d6a229186a)
 
 
 ### Hotkeys Settings:
@@ -140,7 +139,7 @@ Some functions we can assign hotkeys to include:
 
 This definitely isn’t necessary but it’s a great way to streamline our workflow so that we can control and configure everything really easily while we’re live streaming.
 
-![Screenshot from 2023-07-27 11-20-42](https://github.com/Diya050/OBS_Tutorial/assets/124448340/c80affb7-163e-4cde-8825-db4168697a15)
+![Screenshot from 2023-07-27 11-32-46](https://github.com/Diya050/OBS_Tutorial/assets/124448340/cbf1fb8f-c626-4225-bf6d-0359a8b87eeb)
 
 
 ### Accessibility: 
