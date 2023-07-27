@@ -209,7 +209,7 @@ Hit OK and you’ll see a box with that camera source on your Preview Area. You 
 Now that you’ve got a range of different Scenes, you can move between them quickly & easily  just by clicking on your desired Scene in the Scenes panel.
 Picture-in-Picture set up in OBS Studio Scenes Similar to the other sources, you can adjust your Picture-in-Picture by dragging the corners
 
-### OBS Studio Effects
+## OBS Studio Effects
 
 There are ways to customize your video and audio even further.
 
@@ -298,7 +298,7 @@ And now you’re live! In the bottom right corner you can see how long you’ve 
 Now if you open your YouTube Studio, this is where you’ll be able to view and respond to any comments.
 View of YouTube Studio when you go live where you can see a preview and some analytics dataView and respond to your viewers once you’re live on YouTube
 
-### Going Live With Studio Mode
+## Going Live With Studio Mode
 
 As we mentioned earlier, you can also live stream in Studio Mode with OBS. This is a more advanced feature, so those live streaming pros out there might like to try this feature.
 
