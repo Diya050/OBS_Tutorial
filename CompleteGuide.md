@@ -337,6 +337,60 @@ To disable Studio Mode at any time, just click the Studio Mode button again in t
 
 Now you know exactly how to live stream with OBS Studio.
 
+## Using Advanced Scene Switcher
+
+### Installation
+
+- If you are using snap you can install the following package for an OBS installation which comes bundled with the plugin:
+```bash
+$ sudo snap install obs-studio
+```
+- The plugin is also available via the Flatpak package manager for users who installed OBS via Flatpak:
+```bash
+$ flatpak install com.obsproject.Studio.Plugin.SceneSwitcher
+```
+- If you have installed OBS via other means, it is most likely necessary to install the plugin manually. To do so copy the advanced-scene-switcher.so file and into the OBS Studio plugin folder.
+
+### Usage
+
+- Once you have installed Advanced Scene Switcher you can access it from Tools > Advanced Scene Switcher
+
+![Screenshot from 2023-07-30 20-27-22](https://github.com/Diya050/OBS_Tutorial/assets/124448340/06d170aa-0bb1-4287-81bd-bd0597fecde2)
+
+- You will end up on the "General" tab of the plugin.
+- In the General tab, you will find some of the global settings you may need to revisit once you get some automation set up.
+   -  One thing to note here is the `Status` section, where you can choose to automatically start the switcher when you start recording, streaming, or both.
+   -   There is also an option to start the switcher on startup if it was running previously.
+   -   In the `Save/load settings` section, you can export/import the settings for a particular system.
+   -   In `Match Behaviour` Section, you can set "what to view" when no actions are performed in a particular scene.
+   -   You can also set priorities for various switching methods in `Priority` Section.
+ 
+![Screenshot from 2023-07-30 14-10-51](https://github.com/Diya050/OBS_Tutorial/assets/124448340/a1bd3d61-da22-4387-a887-9d10fdc98bdc)
+
+- In the Macro Tab, you can add several macros (like you did for scenes) by clicking the plus symbol on the lower left and enter a name for every new macro.
+  - For each macro, you have to add the condition you want to trigger the automated scene switch by clicking the corresponding plus symbol and selecting the type of the condition we want to use by clicking the plus symbol on the lower left.
+ 
+![Screenshot from 2023-07-30 20-13-27](https://github.com/Diya050/OBS_Tutorial/assets/124448340/4a62929e-c679-4439-a189-059bc39c7270)
+
+  - As a last step we have to specify the action that has to be performed if the condition we specified above is true.
+To do this we have to add a new action to our macro by pressing the plus button in the lower middle of the macro tab.
+  - The default action that is chose is already our desired one - "Switch scene" - so we do not have to adjust the type of the action.
+However we have to select the scene we want to switch to the transition type we want to use and the duration of the transition.
+
+![Screenshot from 2023-07-30 20-13-43](https://github.com/Diya050/OBS_Tutorial/assets/124448340/ab8daba7-8400-413a-b404-142d42b439a3)
+
+### Example:
+
+We will make settings to switch from `web browser` to `terminal` after `1.00 minute` of time with `cut` transition.
+
+- In General Tab, we will select Automaticall start the scene switcher when Recording or streaming.
+
+![Screenshot from 2023-07-30 14-10-51](https://github.com/Diya050/OBS_Tutorial/assets/124448340/03820f05-b13e-43c1-b9a2-ee65736ab880)
+
+- We will add a macro and do settings as follow:
+
+![Screenshot from 2023-07-30 14-11-02](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7c64933f-c971-4660-b8d3-af383ac4fd38)
+
 
 ## How to use OBS Studio from Mobile
 
