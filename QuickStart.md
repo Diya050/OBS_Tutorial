@@ -72,8 +72,6 @@ We recommend running a short test to ensure everything works smoothly before you
 
 Once you're satisfied, you're all set to create fantastic content! That's all there is to it!
 
-Now you're all set to start streaming or recording with OBS Studio. Enjoy your content creation journey!
-
 ## Using Advanced Scene Switcher
 
 ### Installation
@@ -127,3 +125,26 @@ We will make settings to switch from `web browser` to `terminal` after `1.00 min
 - We will add a macro and do settings as follow:
 
 ![Screenshot from 2023-07-30 14-11-02](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7c64933f-c971-4660-b8d3-af383ac4fd38)
+
+
+## How to use OBS Studio from Mobile
+
+For this, you'll need obs-websocket. If you are running OBS v27, you need to download obs-websocket plugin from https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-using-websockets.466/. 
+
+For v28 and above, obs-websocket is included with OBS Studio. You can simply follow:
+
+- Open OBS studio on your PC.
+- Go to Tools > WebSocket Server Settings
+- Enable WebSocket Server and configure the settings.
+- Install StreamCtrl app on your mobile.
+- Connect it to your through QR code or password.
+- Here, you are ready to control your OBS from your mobile.
+- You may explore its further features while working.
+
+ ![photo1690436563(2)](https://github.com/Diya050/OBS_Tutorial/assets/124448340/0f8122bc-84ea-49bc-8e4a-7c18b1992e4a)
+
+ ![photo1690436563](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7f04f164-8e59-4f20-b465-60e73eae6f06)
+ 
+![photo1690436563(1)](https://github.com/Diya050/OBS_Tutorial/assets/124448340/ddbd0a96-e37e-4ba5-bf1d-1503dfdd83f6)
+
+Now you're all set to start streaming or recording with OBS Studio. Enjoy your content creation journey!
