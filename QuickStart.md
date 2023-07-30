@@ -141,10 +141,4 @@ For v28 and above, obs-websocket is included with OBS Studio. You can simply fol
 - Here, you are ready to control your OBS from your mobile.
 - You may explore its further features while working.
 
- ![photo1690436563(2)](https://github.com/Diya050/OBS_Tutorial/assets/124448340/0f8122bc-84ea-49bc-8e4a-7c18b1992e4a)
-
- ![photo1690436563](https://github.com/Diya050/OBS_Tutorial/assets/124448340/7f04f164-8e59-4f20-b465-60e73eae6f06)
- 
-![photo1690436563(1)](https://github.com/Diya050/OBS_Tutorial/assets/124448340/ddbd0a96-e37e-4ba5-bf1d-1503dfdd83f6)
-
 Now you're all set to start streaming or recording with OBS Studio. Enjoy your content creation journey!
