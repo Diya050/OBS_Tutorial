@@ -383,6 +383,9 @@ However we have to select the scene we want to switch to the transition type we 
 
 We will make settings to switch from `web browser` to `terminal` after `1.00 minute` of time with `cut` transition.
 
+
+![Screenshot from 2023-07-30 14-12-20](https://github.com/Diya050/OBS_Tutorial/assets/124448340/d3bd65ad-8814-48ed-b602-72e17eb60833)
+
 - In General Tab, we will select Automaticall start the scene switcher when Recording or streaming.
 
 ![Screenshot from 2023-07-30 14-10-51](https://github.com/Diya050/OBS_Tutorial/assets/124448340/03820f05-b13e-43c1-b9a2-ee65736ab880)
